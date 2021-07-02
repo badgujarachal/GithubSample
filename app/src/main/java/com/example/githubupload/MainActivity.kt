@@ -12,5 +12,7 @@ class MainActivity : AppCompatActivity() {
 
         print("Thid is first test branch")
 
+        print("third branch")
+
     }
 }
